@@ -1,4 +1,4 @@
-# CodeAlpha_AIChatbot
+# AIChatbot
 # AI Chatbot Using Java
 
 ### CodeAlpha Internship Project
